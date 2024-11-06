@@ -1,0 +1,9 @@
+{
+  "version": "1.0",
+  "datasetReference": {
+    "byPath": {
+      "path": "../Acompanhamento de RH - DASHBOARD DESCRITIVO.Dataset"
+    },
+    "byConnection": null
+  }
+}
