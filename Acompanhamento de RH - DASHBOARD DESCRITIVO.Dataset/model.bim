@@ -249,28 +249,6 @@
           }
         ],
         "lineageTag": "ed0f3fb2-e29a-41dd-b065-b0bcabd5a655",
-        "measures": [
-          {
-            "name": "Test 2",
-            "expression": "\"this an test\" ",
-            "lineageTag": "947553bb-9b19-414d-bf5b-61971b14013a"
-          },
-          {
-            "name": "TESTE1",
-            "expression": "\"Esse e um teste\"",
-            "lineageTag": "a2c199aa-f36c-4fac-8911-9c1ab58c3810"
-          },
-          {
-            "name": "Teste 03",
-            "expression": "'testand' ",
-            "lineageTag": "c22d5139-111d-4fc2-9796-65c48b988380"
-          },
-          {
-            "name": "TEste",
-            "expression": "'oi'",
-            "lineageTag": "c1c6d158-f73c-4471-bd36-3483e5901368"
-          }
-        ],
         "partitions": [
           {
             "name": "tb_rh",
