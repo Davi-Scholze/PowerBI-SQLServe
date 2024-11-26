@@ -1,2 +1,2 @@
-# PowerBI-SQLServe
+# PowerBI-SQLServer
  Curso Udemy
